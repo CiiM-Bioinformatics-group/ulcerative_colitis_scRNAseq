@@ -1,5 +1,6 @@
 # ulcerative_colitis_scRNAseq
-Scripts used in ulcerative_colitis_scRNAseq projects
+Scripts: R and Perl codes used in ulcerative_colitis_scRNAseq projects
+metadata.final.txt contains the cellular information and annotations
 
 # analysis description
 scRNA-seq was performed with 10x genomics.Reads from fastq was aligned to Human genome (Hg19) by cellranger(v3.0.1).
@@ -15,8 +16,8 @@ Seurat object was saved in Folder: "analysis"
 R-scripts were saved in Folder: "scripts"
 
 # Sample information
-Totally 13 samples, including:
-UC, inflamed biopsies from UC patients: id1T, id2T, id3T, id4T, id5T. 
+Totally 12 samples, including:
+UC, inflamed biopsies from UC patients: id1T, id3T, id4T, id5T. 
 SC, non-inflamed biopsies from UC patients: id2C, id3C, id4C, id5C.
 HC, healthy biopsies from healthy individuals: id6C, id7C, id8C, id9C.
 
