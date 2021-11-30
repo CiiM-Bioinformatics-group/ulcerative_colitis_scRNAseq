@@ -1,5 +1,6 @@
 # ulcerative_colitis_scRNAseq
 Scripts: R and Perl codes used in ulcerative_colitis_scRNAseq projects
+
 metadata.final.txt contains the cellular information and annotations
 
 # analysis description
@@ -17,22 +18,33 @@ R-scripts were saved in Folder: "scripts"
 
 # Sample information
 Totally 12 samples, including:
+
 UC, inflamed biopsies from UC patients: id1T, id3T, id4T, id5T. 
+
 SC, non-inflamed biopsies from UC patients: id2C, id3C, id4C, id5C.
+
 HC, healthy biopsies from healthy individuals: id6C, id7C, id8C, id9C.
+
 
 Sample IDs in meatadata.list.txt includes sample IDs and their condition, where UC stands for UC-disease-tissue, SC stands for healthy tissue from UC patient (self control), HC means healthy control (tissue from healthy patient). id1, id2, ... stands for different individual, e.g. id3C(SC) and id3T(UC) were two samples from same individual.
 
 Sample id2T was pre-filtered due to low overall quality according to the reads mapping. Then, we performed a single-cell RNA sequencing (scRNA-seq) analysis of 12 colon biopsies from 5 UC patients including 4 inflamed (UC), 4 non-inflamed (self-control, SC) biopsies and 4 healthy biopsies (HC) from healthy individuals.
 
 # scripts information:
-loadData_and_clustering.R       # Load and clustering of the whole data (as shown in Figure 1 in the publication)
-update_metadata.R  	        # update the celltype identifications and others
-test_markers.R	                # test markers and DEGs (used in Figure 1)
-bakup_old_celltypemarkers.txt	#celltype markers collected from cellMarkerDB http://bio-bigdata.hrbmu.edu.cn/CellMarker
-foundGWAS	                #Match DE genes to GWAS reported genes, GWAS collected from gwas catalog https://www.ebi.ac.uk/gwas/
-plotGWASgenes.R	                #Plot the matched GWAS reported genes (as shown in Figure 4)
-Plot_new_markers.R	        #Plot the selected markers (as shown in Figure 2,3 and suppl Figures)
+loadData_and_clustering.R       # Load and clustering of the whole data (as shown in Figure 1 in the publication);
+
+update_metadata.R  	        # update the celltype identifications and others;
+
+test_markers.R	                # test markers and DEGs (used in Figure 1);
+
+bakup_old_celltypemarkers.txt	#celltype markers collected from cellMarkerDB http://bio-bigdata.hrbmu.edu.cn/CellMarker;
+
+foundGWAS	                #Match DE genes to GWAS reported genes, GWAS collected from gwas catalog https://www.ebi.ac.uk/gwas/;
+
+plotGWASgenes.R	                #Plot the matched GWAS reported genes (as shown in Figure 4);
+
+Plot_new_markers.R	        #Plot the selected markers (as shown in Figure 2,3 and suppl Figures);
+
 
 
 # Link to publication:
