@@ -1,0 +1,92 @@
+"KLRB1","IL7R","CD3D"  Peripheral_blood:Natural_killer_cell/CD4+ TCell
+"GLUL","ADRB2",Peripheral_blood:Effector_CD8+_memory_T_(Tem)_cell
+"NKG7","GZMK",	Natural_killer_cell CD8+ TCell
+"CD83","HLA-DRA","CD74",Large_intestine:Paneth_cell"GLA","PDE4B",Large_intestine:Paneth_cell"LYZ","C1QB","C1QA",Large_intestine:Paneth_cell"IL1B","CCL3",Large_intestine:Paneth_cell"HPGDS","HCK","PLCG2",Large_intestine:Paneth_cell
+"SEC11C",Small_intestine:Enterocyte_progenitor_cell"IL32","KLRB1",Small_intestine:Enterocyte_progenitor_cell
+"AQP8","GUCA2A","GUCA2B",Large_intestine:Enterocyte
+"CD79A",Peripheral_blood:B_cell"CD79B","MS4A1",Peripheral_blood:B_cell
+"TSPAN8","MGST1","GPX2", Large_intestine:LGR5+_stem_cell"OLFM4","TSPAN8","MGST1",Large_intestine:LGR5+_stem_cell
+"MUC4","KRT19","ZG16","FCGBP",Large_intestine:Goblet_cell
+"ARL14","SPINK4",Large_intestine:Goblet_progenitor_cell
+"UBE2C","RRM2","CDK1",Large_intestine:MKI67+_progenitor_cell"PLVAP","CLDN5","GNG11",Large_intestine:MKI67+_progenitor_cell"RRM2","HIST1H4C",Large_intestine:MKI67+_progenitor_cell
+"LUM","DCN","COL3A1","FBLN1",Large_intestine:DCLK1+_progenitor_cell"SPARC","SCN7A","MATN2",Large_intestine:DCLK1+_progenitor_cell"MGP","SPARC","COL1A2",Large_intestine:DCLK1+_progenitor_cell
+
+
+hcmarks<-c(
+"KLRB1","CTLA4",
+"NKG7","GZMK",
+"CD83","HLA-DRA",
+"SEC11C","CD79A",
+"TSPAN8","MGST1",
+"MUC4","KRT19",
+"UBE2C","RRM2",
+"GLA","PDE4B",
+"LUM","DCN",
+"PLVAP","CLDN5",
+"LYZ","C1QB",
+"AQP8","GUCA2A",
+"GLUL","HPGD",
+"ZG16","FCGBP",
+"IL32","GIMAP4",
+"OLFM4","ARL14",
+"MT-ND2","MT-ND4",
+"IL1B","CCL3",
+"CD79B","MS4A1",
+"HPGDS","HCK",
+"SPARC","SCN7A",
+"MGP","COL1A2",
+"CD27","HIST1H4C")
+
+marks<-c(
+"KLRB1","IL7R",
+"NKG7","GZMK",
+"CD83","HLA-DRA",
+"SEC11C","CD79A",
+"TSPAN8","MGST1",
+"MUC4","KRT19",
+"UBE2C","RRM2",
+"GLA","PDE4B",
+"LUM","DCN",
+"PLVAP","CLDN5",
+"LYZ","C1QB",
+"AQP8","GUCA2A",
+"GLUL","HPGD",
+"ZG16","FCGBP",
+"IL32","GIMAP4",
+"OLFM4","ARL14",
+"MT-ND2","MT-ND4",
+"IL1B","CCL3",
+"CD79B","MS4A1",
+"HPGDS","HCK",
+"SPARC","SCN7A",
+"MGP","COL1A2",
+"CD27","HIST1H4C")
+
+#VlnPlot(immune.combined, features = c("nFeature_RNA", "percent.mt"), nrow = 2)
+marks<-c(
+0"KLRB1","IL7R",   CD4+T-cell 
+1"NKG7","GZMK",     CD8+T-cell
+2"CD83","HLA-DRA",Large_intestine:Paneth_cell  P
+3/4"SEC11C","CD79A",Small_intestine:Enterocyte_progenitor_cell
+5"TSPAN8","MGST1",Large_intestine:LGR5+_stem_cell
+6"MUC4","KRT19",Large_intestine:Goblet_cell
+7"UBE2C","RRM2",Large_intestine:MKI67+_progenitor_cell
+8"GLA","PDE4B",Large_intestine:Paneth_cell    P
+9"LUM","DCN",Large_intestine:DCLK1+_progenitor_cell
+10"PLVAP","CLDN5",Large_intestine:MKI67+_progenitor_cell
+11"LYZ","C1QB",Large_intestine:Paneth_cell   P
+12"AQP8","GUCA2A",Large_intestine:Enterocyte
+13"GLUL","HPGD",Peripheral_blood:Effector_CD8+_memory_T_(Tem)_cell
+14"ZG16","FCGBP",Large_intestine:Goblet_cell
+15"IL32","GIMAP4",
+16"OLFM4","ARL14",Large_intestine:LGR5+_stem_cell
+17"MT-ND2","MT-ND4",Dead
+18"IL1B","CCL3",Large_intestine:Paneth_cell  P
+19"CD79B","MS4A1",Peripheral_blood:B_cell+Large_intestine:Paneth_cell
+20"HPGDS","HCK",Large_intestine:Paneth_cell  P
+21"SPARC","SCN7A",Large_intestine:DCLK1+_progenitor_cell
+22"MGP","COL1A2",Large_intestine:DCLK1+_progenitor_cell
+23"CD27","HIST1H4C"Large_intestine:MKI67+_progenitor_cell
+24              Large_intestine:Paneth_cell P
+)
+

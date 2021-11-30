@@ -1,0 +1,670 @@
+REPORTED GENE(S)	CHR_ID	CHR_POS	SNPS	P-VALUE	PUBMEDID	INITIAL SAMPLE SIZE
+SCNN1D	1	1312114	rs12103	3.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CPSF3L	1	1312114	rs12103	3.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+TAS1R3	1	1312114	rs12103	3.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+RP4-758J18.2	1	1312114	rs12103	3.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+MRPL20	1	1312114	rs12103	3.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+UBE2J2	1	1312114	rs12103	3.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+ACAP3	1	1312114	rs12103	3.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+PUSL1	1	1312114	rs12103	3.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+GLTPD1	1	1312114	rs12103	3.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+DVL1	1	1312114	rs12103	3.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+MXRA8	1	1312114	rs12103	3.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CCNL2	1	1312114	rs12103	3.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+AURKAIP1	1	1312114	rs12103	3.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+TNFRSF14	1	2567423	rs1555791	2.00E-06	26398853	705 Korean ancestry cases, 1,178 Korean ancestry controls
+FAM213B	1	2569899	rs10797432	1.00E-10	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+MMEL1	1	2569899	rs10797432	1.00E-10	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+TNFRSF14	1	2569899	rs10797432	1.00E-10	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+MMEL1	1	2569899	rs10797432	3.00E-12	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+PLCH2	1	2569899	rs10797432	3.00E-12	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+TNFRSF14	1	2569899	rs10797432	3.00E-12	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+MMEL1	1	2581777	rs734999	3.00E-09	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+PLCH2	1	2581777	rs734999	3.00E-09	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+C1orf93	1	2581777	rs734999	3.00E-09	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+TNFRSF14	1	2581777	rs734999	3.00E-09	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+PARK7	1	7961913	rs35675666	5.00E-09	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+TNFRSF9	1	7961913	rs35675666	5.00E-09	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+ERFFI1	1	7961913	rs35675666	5.00E-09	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+UTS2	1	7961913	rs35675666	5.00E-09	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+VAMP3	1	7962137	rs3766606	4.00E-09	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+UTS2	1	7962137	rs3766606	4.00E-09	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+PARK7	1	7962137	rs3766606	4.00E-09	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+ERRFI1	1	7962137	rs3766606	4.00E-09	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+PER3	1	7962137	rs3766606	4.00E-09	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+TNFRSF9	1	7962137	rs3766606	4.00E-09	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CAMTA1	1	7962137	rs3766606	4.00E-09	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+RNF186	1	19813543	rs1317209	2.00E-10	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+OTUD3	1	19813543	rs1317209	2.00E-10	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+PLA2G2E	1	19813543	rs1317209	2.00E-10	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+RNF186	1	19816373	rs3806308	7.00E-09	19122664	1,022 European ancestry cases, 2,503 European ancestry controls
+RNF186	1	19816373	rs3806308	3.00E-08	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+OTUD3	1	19816373	rs3806308	3.00E-08	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+PLA2G2E	1	19816373	rs3806308	3.00E-08	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+RNF186	1	19845367	rs6426833	3.00E-42	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+OTUD3	1	19845367	rs6426833	3.00E-42	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+OTUD3	1	19845367	rs6426833	5.00E-13	19122664	1,022 European ancestry cases, 2,503 European ancestry controls
+PLA2G2E	1	19845367	rs6426833	5.00E-13	19122664	1,022 European ancestry cases, 2,503 European ancestry controls
+RNF186	1	19845367	rs6426833	2.00E-21	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+OTUD3	1	19845367	rs6426833	2.00E-21	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+PLA2G2E	1	19845367	rs6426833	2.00E-21	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+OTUD3	1	19845367	rs6426833	2.00E-11	19915572	2,361 European ancestry cases, 5,417 European ancestry controls
+PLA2G2E	1	19845367	rs6426833	2.00E-11	19915572	2,361 European ancestry cases, 5,417 European ancestry controls
+RNF186	1	19874497	rs4654903	7.00E-09	23511034	388 Korean ancestry cases, 739 Korean ancestry controls
+OTUD3	1	19874497	rs4654903	7.00E-09	23511034	388 Korean ancestry cases, 739 Korean ancestry controls
+PLA2G2E	1	19874497	rs4654903	7.00E-09	23511034	388 Korean ancestry cases, 739 Korean ancestry controls
+OTUD3	1	19901230	rs4654925	9.00E-22	20228798	1,043 European ancestry cases, 1,703 European ancestry controls
+Intergenic	1	22375738	rs12568930	2.00E-15	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+IL23R	1	67182913	rs76418789	1.00E-08	26398853	705 Korean ancestry cases, 1,178 Korean ancestry controls
+IL23R	1	67228519	rs2201841	1.00E-13	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+IL23R	1	67240275	rs11209026	1.00E-08	19122664	1,022 European ancestry cases, 2,503 European ancestry controls
+IL23R	1	67240275	rs11209026	3.00E-10	19915572	2,361 European ancestry cases, 5,417 European ancestry controls
+IL23R	1	67240275	rs11209026	5.00E-28	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+INSL5	1	67242007	rs11581607	4.00E-41	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+MIER1	1	67242007	rs11581607	4.00E-41	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+IL12RB2	1	67242007	rs11581607	4.00E-41	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+TCTEX1D1	1	67242007	rs11581607	4.00E-41	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+WDR78	1	67242007	rs11581607	4.00E-41	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+SLC35D1	1	67242007	rs11581607	4.00E-41	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+C1orf141	1	67242007	rs11581607	4.00E-41	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+IL23R	1	67242007	rs11581607	4.00E-41	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+SERBP1	1	67242007	rs11581607	4.00E-41	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+SGIP1	1	67242007	rs11581607	4.00E-41	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+IL23R	1	67259437	rs10889677	1.00E-08	19122664	1,022 European ancestry cases, 2,503 European ancestry controls
+Intergenic	1	70529879	rs2651244	1.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+SLC30A	1	101000498	rs11583043	6.00E-08	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+EDG1	1	101000498	rs11583043	6.00E-08	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+RORC	1	151829204	rs4845604	2.00E-11	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+FCGR2A	1	161502368	rs10800309	3.00E-09	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+FCGR2C	1	161502368	rs10800309	3.00E-09	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+FCGR2A	1	161509955	rs1801274	2.00E-12	19915573	376 Japanese ancestry cases, 934 Japanese ancestry controls
+HSPA6	1	161509955	rs1801274	2.00E-18	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+FCGR3A	1	161509955	rs1801274	2.00E-18	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+FCGR3B	1	161509955	rs1801274	2.00E-18	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+FCGR2B	1	161509955	rs1801274	2.00E-18	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+FCGR2A	1	161509955	rs1801274	2.00E-18	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+FCGR2A	1	161509955	rs1801274	2.00E-20	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+FCGR2B	1	161509955	rs1801274	2.00E-20	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+HSPA6	1	161509955	rs1801274	2.00E-20	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+PTPRC	1	198687278	rs2359952	4.00E-07	24837172	603 North Indian ancestry cases, 622 North Indian ancestry controls
+NR5A2	1	200132792	rs2816958	2.00E-13	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+C1orf106	1	200908434	rs7554511	4.00E-16	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+KIF21B	1	200908434	rs7554511	4.00E-16	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CACNA1S	1	200908434	rs7554511	4.00E-16	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+KIF21B	1	200908434	rs7554511	5.00E-06	25082827	up to 7,483 European ancestry cases, up to 21,211 European ancestry controls
+KIF21B	1	200908434	rs7554511	1.00E-06	19915572	2,361 European ancestry cases, 5,417 European ancestry controls
+C1orf106	1	200908434	rs7554511	2.00E-13	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+KIF21B	1	200966738	rs11584383	2.00E-07	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+C1orf81	1	200966738	rs11584383	2.00E-07	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+CACNA1S	1	200966738	rs11584383	2.00E-07	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+IL10	1	206766559	rs3024505	2.00E-23	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+IL10	1	206766559	rs3024505	1.00E-12	18836448	1,167 European ancestry cases, 777 European ancestry controls
+IL19	1	206766559	rs3024505	1.00E-08	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+IL10	1	206766559	rs3024505	1.00E-08	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+IL10	1	206766559	rs3024505	6.00E-17	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+IL19	1	206766559	rs3024505	6.00E-17	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+IL10	1	206770623	rs3024493	1.00E-12	20228798	1,043 European ancestry cases, 1,703 European ancestry controls
+IL10	1	206770623	rs3024493	8.00E-08	19915572	2,361 European ancestry cases, 5,417 European ancestry controls
+IL10	1	206786871	rs880790	4.00E-06	26398853	705 Korean ancestry cases, 1,178 Korean ancestry controls
+IL19	1	206786871	rs880790	4.00E-06	26398853	705 Korean ancestry cases, 1,178 Korean ancestry controls
+MYTL	2	2402716	rs11679592	9.00E-06	25082827	up to 7,483 European ancestry cases, up to 21,211 European ancestry controls
+PUS10	2	60959694	rs13003464	7.00E-09	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+REL	2	60959694	rs13003464	7.00E-09	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+CCDC139	2	60959694	rs13003464	7.00E-09	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+PUS10	2	60977721	rs7608910	4.00E-23	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+PUS10	2	60977721	rs7608910	2.00E-14	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+IL1R2	2	102047167	rs2310173	3.00E-12	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+GPD2	2	156742166	rs8179646	6.00E-06	25082827	up to 7,483 European ancestry cases, up to 21,211 European ancestry controls
+ITGA4	2	181443625	rs6740847	1.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+RFTN2	2	198016944	rs1016883	3.00E-08	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+PLCL1	2	198016944	rs1016883	3.00E-08	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+SATB2	2	199425636	rs1992950	5.00E-06	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+ICOS	2	203727298	rs3116494	1.00E-07	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+CD28	2	203727298	rs3116494	1.00E-07	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+CTLA4	2	203727298	rs3116494	1.00E-07	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+IL8RA	2	218145423	rs11676348	1.00E-10	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+SLC11A1	2	218145423	rs11676348	1.00E-10	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+IL8RB	2	218145423	rs11676348	1.00E-10	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+AAMP	2	218145423	rs11676348	1.00E-10	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+ARPC	2	218145423	rs11676348	1.00E-10	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+CCL20	2	227795396	rs7556897	3.00E-08	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+GPR35	2	240634984	rs4676408	1.00E-17	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+GPR35	2	240639691	rs4676406	8.00E-11	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+HDAC11	3	13451731	rs2655211	7.00E-06	26278503	361 African American cases, 1,797 African American controls
+CCR1	3	46415921	rs113010081	2.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CCRL2	3	46415921	rs113010081	2.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CCR5	3	46415921	rs113010081	2.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CCR3	3	46415921	rs113010081	2.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CCR2	3	46415921	rs113010081	2.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+FLJ78302	3	46415921	rs113010081	9.00E-10	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+LTF	3	46415921	rs113010081	9.00E-10	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+CCR1	3	46415921	rs113010081	9.00E-10	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+CCR2	3	46415921	rs113010081	9.00E-10	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+CCR3	3	46415921	rs113010081	9.00E-10	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+CCR5	3	46415921	rs113010081	9.00E-10	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+MST1	3	49664550	rs9858542	7.00E-09	19915572	2,361 European ancestry cases, 5,417 European ancestry controls
+UBA7	3	49682296	rs9822268	2.00E-17	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+MST1	3	49682296	rs9822268	2.00E-17	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+APEH	3	49682296	rs9822268	2.00E-17	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+AMIGO3	3	49682296	rs9822268	2.00E-17	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+GMPPB	3	49682296	rs9822268	2.00E-17	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+BSN	3	49682296	rs9822268	2.00E-17	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+PFKFB4	3	49684099	rs3197999	8.00E-07	25082827	up to 7,483 European ancestry cases, up to 21,211 European ancestry controls
+MST1R	3	49684099	rs3197999	8.00E-07	25082827	up to 7,483 European ancestry cases, up to 21,211 European ancestry controls
+UCN2	3	49684099	rs3197999	8.00E-07	25082827	up to 7,483 European ancestry cases, up to 21,211 European ancestry controls
+GPX1	3	49684099	rs3197999	8.00E-07	25082827	up to 7,483 European ancestry cases, up to 21,211 European ancestry controls
+IP6K2	3	49684099	rs3197999	8.00E-07	25082827	up to 7,483 European ancestry cases, up to 21,211 European ancestry controls
+BSN	3	49684099	rs3197999	8.00E-07	25082827	up to 7,483 European ancestry cases, up to 21,211 European ancestry controls
+IP6K1	3	49684099	rs3197999	8.00E-07	25082827	up to 7,483 European ancestry cases, up to 21,211 European ancestry controls
+USP4	3	49684099	rs3197999	8.00E-07	25082827	up to 7,483 European ancestry cases, up to 21,211 European ancestry controls
+MST1	3	49684099	rs3197999	8.00E-07	25082827	up to 7,483 European ancestry cases, up to 21,211 European ancestry controls
+MST1	3	49684099	rs3197999	4.00E-09	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+TMA7	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+TREX1	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+UCN2	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+TMEM89	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+SLC26A6	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+WDR6	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+NDUFAF3	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+IMPDH2	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+KLHDC8B	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+RP11-3B7.1	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+C3orf62	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+GPX1	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+TCTA	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+AMT	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+APEH	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+PLXNB1	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CCDC51	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+SHISA5	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+PFKFB4	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+UQCRC1	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CELSR3	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+NCKIPSD	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+PRKAR2A	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+SLC25A20	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+ARIH2OS	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+P4HTM	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+DALRD3	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+QRICH1	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+QARS	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+LAMB2	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CCDC71	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+C3orf84	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+USP4	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+NICN1	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+MST1	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+RNF123	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+ATRIP	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+COL7A1	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+IP6K2	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+ARIH2	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+USP19	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+RHOA	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+DAG1	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+BSN	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CCDC36	3	49684099	rs3197999	8.00E-20	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+PRKCD	3	53028645	rs9847710	1.00E-08	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+ITIH4	3	53028645	rs9847710	1.00E-08	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+NFKBIZ	3	101850882	rs616597	9.00E-06	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+NFKB1	4	102589957	rs3774959	4.00E-12	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+MANBA	4	102589957	rs3774959	4.00E-12	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+Intergenic	4	116929300	rs979961	8.00E-07	28008999	269 Polish ancestry child cases, 259 Polish ancestry adult cases, 582 Polish ancestry controls
+IL2	4	122408207	rs17388568	9.00E-07	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+ADAD1	4	122408207	rs17388568	9.00E-07	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+IL21	4	122408207	rs17388568	9.00E-07	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+AC026740.1	5	583327	rs4957048	2.00E-07	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+TPPP	5	583327	rs4957048	2.00E-07	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+SLC9A3	5	583327	rs4957048	2.00E-07	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CEP72	5	583327	rs4957048	2.00E-07	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CEP72	5	583327	rs4957048	1.00E-09	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+TPPP	5	583327	rs4957048	1.00E-09	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+SLC9A3	5	593968	rs11739663	2.00E-08	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+EXOC3	5	593968	rs11739663	3.00E-08	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+DAP	5	10752203	rs267939	6.00E-12	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+IL7R	5	35876172	rs3194051	4.00E-08	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+OSMR	5	38867630	rs395157	4.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+OSMR	5	38867630	rs395157	9.00E-12	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+FYB	5	38867630	rs395157	9.00E-12	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+LIFR	5	38867630	rs395157	9.00E-12	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+Intergenic	5	40410482	rs11742570	3.00E-07	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+PTGER4	5	40410833	rs6451493	3.00E-09	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+IL3	5	132435113	rs2188962	2.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CSF2	5	132435113	rs2188962	2.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+HINT1	5	132435113	rs2188962	2.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+LYRM7	5	132435113	rs2188962	2.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+SLC22A4	5	132435113	rs2188962	2.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+C5orf56	5	132435113	rs2188962	2.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+IRF1	5	132435113	rs2188962	2.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CDC42SE2	5	132435113	rs2188962	2.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+RAPGEF6	5	132435113	rs2188962	2.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+ACSL6	5	132435113	rs2188962	2.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+P4HA2	5	132435113	rs2188962	2.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+PDLIM4	5	132435113	rs2188962	2.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+SLC22A5	5	132435113	rs2188962	2.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CTC-432M15.3	5	132435113	rs2188962	2.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+FNIP1	5	132435113	rs2188962	2.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+C5orf66	5	135107916	rs254560	3.00E-08	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+SLC6A7	5	150226431	rs17656349	2.00E-08	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CAMK2A	5	150226431	rs17656349	2.00E-08	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+IL12B	5	159399784	rs6871626	1.00E-21	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+UBLCP1	5	159400761	rs56167332	1.00E-23	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+IL12B	5	159400761	rs56167332	1.00E-23	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+C5orf4	5	172897975	rs564349	2.00E-06	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+DUSP1	5	172897975	rs564349	2.00E-06	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+RGS14	5	177361569	rs4976646	4.00E-08	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+SLC34A1	5	177361569	rs4976646	4.00E-08	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+Intergenic	6	14719265	rs17119	7.00E-07	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+HCG9	6	29966386	rs6935053	2.00E-06	23511034	388 Korean ancestry cases, 739 Korean ancestry controls
+HLA	6	30163346	rs17188113	9.00E-07	29562276	466 European ancestry cases, 2,099 European ancestry controls
+IER3	6	30831622	rs9501030	4.00E-06	20848476	324 European ancestry medically refractory ulcerative colitis cases, 537 European ancestry non-medically refractory ulcerative colitis cases, 2,601 European ancestry controls
+GTF2H4	6	30831622	rs9501030	4.00E-06	20848476	324 European ancestry medically refractory ulcerative colitis cases, 537 European ancestry non-medically refractory ulcerative colitis cases, 2,601 European ancestry controls
+FLOT1	6	30831622	rs9501030	4.00E-06	20848476	324 European ancestry medically refractory ulcerative colitis cases, 537 European ancestry non-medically refractory ulcerative colitis cases, 2,601 European ancestry controls
+VARS2	6	30831622	rs9501030	4.00E-06	20848476	324 European ancestry medically refractory ulcerative colitis cases, 537 European ancestry non-medically refractory ulcerative colitis cases, 2,601 European ancestry controls
+MIR588	6	30831622	rs9501030	4.00E-06	20848476	324 European ancestry medically refractory ulcerative colitis cases, 537 European ancestry non-medically refractory ulcerative colitis cases, 2,601 European ancestry controls
+DDR1	6	30831622	rs9501030	4.00E-06	20848476	324 European ancestry medically refractory ulcerative colitis cases, 537 European ancestry non-medically refractory ulcerative colitis cases, 2,601 European ancestry controls
+HLA	6	31143579	rs9263739	4.00E-67	19915573	376 Japanese ancestry cases, 934 Japanese ancestry controls
+3.8-1	6	31481085	rs3749946	2.00E-15	24837172	603 North Indian ancestry cases, 622 North Indian ancestry controls
+HCG26	6	31481085	rs3749946	2.00E-15	24837172	603 North Indian ancestry cases, 622 North Indian ancestry controls
+CFB	6	31949763	rs4151657	5.00E-14	24837172	603 North Indian ancestry cases, 622 North Indian ancestry controls
+BAT2	6	31949763	rs4151657	5.00E-14	24837172	603 North Indian ancestry cases, 622 North Indian ancestry controls
+MSH5	6	31949763	rs4151657	5.00E-14	24837172	603 North Indian ancestry cases, 622 North Indian ancestry controls
+HSPA1L	6	31949763	rs4151657	5.00E-14	24837172	603 North Indian ancestry cases, 622 North Indian ancestry controls
+SLC44A4	6	31949763	rs4151657	5.00E-14	24837172	603 North Indian ancestry cases, 622 North Indian ancestry controls
+MHC	6	32111790	rs17207986	1.00E-16	20848476	324 European ancestry medically refractory ulcerative colitis cases, 537 European ancestry non-medically refractory ulcerative colitis cases, 2,601 European ancestry controls
+NOTCH4	6	32237268	rs549182	8.00E-10	24837172	603 North Indian ancestry cases, 622 North Indian ancestry controls
+BTNL2	6	32396067	rs9268480	3.00E-06	19915573	376 Japanese ancestry cases, 934 Japanese ancestry controls
+HLA-DRA	6	32444069	rs2239802	2.00E-07	28008999	269 Polish ancestry child cases, 259 Polish ancestry adult cases, 582 Polish ancestry controls
+MHC	6	32461866	rs9268853	3.00E-06	23511034	388 Korean ancestry cases, 739 Korean ancestry controls
+HLA-DRA	6	32461866	rs9268853	1.00E-55	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+HLA-DRB5	6	32461866	rs9268853	1.00E-55	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+BTNL2	6	32461866	rs9268853	1.00E-55	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+HLA-DRB1	6	32461866	rs9268853	1.00E-55	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+HLA-DQA1	6	32461866	rs9268853	1.00E-55	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+HLA-DRA	6	32463370	rs9268877	6.00E-18	18836448	1,167 European ancestry cases, 777 European ancestry controls
+BTNL2	6	32463370	rs9268877	6.00E-18	18836448	1,167 European ancestry cases, 777 European ancestry controls
+MHC	6	32463370	rs9268877	4.00E-23	19915572	2,361 European ancestry cases, 5,417 European ancestry controls
+HLA-DRA	6	32465058	rs9268923	4.00E-15	20228798	1,043 European ancestry cases, 1,703 European ancestry controls
+HLA-DQB1	6	32465390	rs2395185	1.00E-16	19122664	1,022 European ancestry cases, 2,503 European ancestry controls
+HLA-DRA	6	32465390	rs2395185	1.00E-16	19122664	1,022 European ancestry cases, 2,503 European ancestry controls
+BTNL2	6	32465390	rs2395185	1.00E-16	19122664	1,022 European ancestry cases, 2,503 European ancestry controls
+HLA-DRB5	6	32465390	rs2395185	1.00E-16	19122664	1,022 European ancestry cases, 2,503 European ancestry controls
+HLA-DRB1	6	32465390	rs2395185	1.00E-16	19122664	1,022 European ancestry cases, 2,503 European ancestry controls
+HLA-DQA1	6	32465390	rs2395185	1.00E-16	19122664	1,022 European ancestry cases, 2,503 European ancestry controls
+C6orf10	6	32465390	rs2395185	9.00E-23	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+BTNL2	6	32465390	rs2395185	9.00E-23	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+HLA	6	32465390	rs2395185	9.00E-23	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+HLA-DRB1	6	32619077	rs9271366	1.00E-18	23511034	388 Korean ancestry cases, 739 Korean ancestry controls
+HLA-DQA1	6	32619077	rs9271366	1.00E-18	23511034	388 Korean ancestry cases, 739 Korean ancestry controls
+HLA-DQA1	6	32619077	rs9271366	7.00E-06	26278503	361 African American cases, 1,797 African American controls
+HLA-DQA1	6	32638107	rs2187668	4.00E-06	28008999	269 Polish ancestry child cases, 259 Polish ancestry adult cases, 582 Polish ancestry controls
+C6orf15	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CDSN	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+PSORS1C2	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+HCG27	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+HLA-C	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+HLA-B	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+MCCD1	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+ATP6V1G2	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+LTA	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+TNF	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+LTB	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+NCR3	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+AIF1	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+BAG6	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+C6orf47	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+GPANK1	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+LY6G5B	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+LY6G5C	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+LY6G6F	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+MEGT1	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+LY6G6E	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+LY6G6D	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+DDAH2	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+SAPCD1	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+HSPA1L	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+HSPA1B	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+C6orf48	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+NEU1	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+ZBTB12	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+NELFE	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+DXO	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+AL645922.1	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CYP21A2	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+FKBPL	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+PRRT1	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+EGFL8	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+RNF5	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+AGER	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+PBX2	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+HLA-DRA	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+HLA-DQB1	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+HLA-DQA2	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+HLA-DQB2	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+PSORS1C1	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CCHCR1	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+TCF19	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+POU5F1	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+MICA	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+MICB	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+DDX39B	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+ATP6V1G2-DDX39B	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+NFKBIL1	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+LST1	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+PRRC2A	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+APOM	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CSNK2B	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CSNK2B-LY6G5B-1181	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+ABHD16A	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+XXbac-BPG32J3.20	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+C6orf25	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+LY6G6C	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CLIC1	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+VWA7	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+VARS	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+LSM2	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+HSPA1A	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+SLC44A4	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+C2	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CFB	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+SKIV2L	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+STK19	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+C4A	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+C4B	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+TNXB	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+ATF6B	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+PPT2	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+PPT2-EGFL8	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+AGPAT1	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+GPSM3	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+NOTCH4	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+C6orf10	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+HLA-DRB5	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+HLA-DRB1	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+HLA-DQA1	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+MSH5	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+MSH5-SAPCD1	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+EHMT2	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+BTNL2	6	32644620	rs6927022	5.00E-65	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+HLA-DQB1	6	32644620	rs6927022	5.00E-133	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+HLA-DRA	6	32644620	rs6927022	5.00E-133	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+HLA-DRB1	6	32644620	rs6927022	5.00E-133	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+HLA-DQA1	6	32644620	rs6927022	5.00E-133	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+HLA-DQB1	6	32659937	rs1063355	2.00E-06	24837172	603 North Indian ancestry cases, 622 North Indian ancestry controls
+HLA-DRA	6	32659937	rs1063355	2.00E-06	24837172	603 North Indian ancestry cases, 622 North Indian ancestry controls
+HLA-DQA1	6	32659937	rs1063355	2.00E-06	24837172	603 North Indian ancestry cases, 622 North Indian ancestry controls
+BRD2	6	32981027	rs1049526	2.00E-08	28008999	269 Polish ancestry child cases, 259 Polish ancestry adult cases, 582 Polish ancestry controls
+BRD2	6	32981027	rs1049526	3.00E-07	28008999	269 Polish ancestry child cases, 259 Polish ancestry adult cases, 582 Polish ancestry controls
+PDRM1	6	106074152	rs6911490	1.00E-08	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+KIAA1919	6	111526988	rs3851228	6.00E-10	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+TRAF3IP2	6	111526988	rs3851228	6.00E-10	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+SLC16A10	6	111526988	rs3851228	6.00E-10	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+REV3L	6	111526988	rs3851228	6.00E-10	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+FYN	6	111526988	rs3851228	6.00E-10	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+FAM26F	6	116447754	rs2858829	9.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+TRAPPC3L	6	116447754	rs2858829	9.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+FAM26F	6	116447754	rs2858829	8.00E-10	25082827	up to 7,483 European ancestry cases, up to 21,211 European ancestry controls
+Intergenic	6	137685367	rs6920220	3.00E-15	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+AMZ1	7	2750246	rs798502	4.00E-11	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+GNA12	7	2750246	rs798502	4.00E-11	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+GNA12	7	2750246	rs798502	6.00E-17	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+CARD11	7	2750246	rs798502	6.00E-17	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+TTYH3	7	2750246	rs798502	6.00E-17	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+GNA12	7	2750246	rs798502	3.00E-15	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+FLJ20306	7	6505557	rs11768365	2.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+DAGLB	7	6505557	rs11768365	2.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+KDELR2	7	6505557	rs11768365	2.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+GRID2IP	7	6505557	rs11768365	2.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+Intergenic	7	17403055	rs1077773	6.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+AHR	7	17403055	rs1077773	6.00E-09	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+HDAC9	7	18760790	rs11764116	2.00E-06	20848476	324 European ancestry medically refractory ulcerative colitis cases, 537 European ancestry non-medically refractory ulcerative colitis cases, 2,601 European ancestry controls
+CACNA2D1	7	82228577	rs929351	8.00E-06	20848476	324 European ancestry medically refractory ulcerative colitis cases, 537 European ancestry non-medically refractory ulcerative colitis cases, 2,601 European ancestry controls
+KPNA7	7	99161494	rs9297145	7.00E-07	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+SMURF1	7	99161494	rs9297145	7.00E-07	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+SMURF1	7	99162881	rs7809799	9.00E-11	20228798	1,043 European ancestry cases, 1,703 European ancestry controls
+KPNA7	7	99162881	rs7809799	9.00E-11	20228798	1,043 European ancestry cases, 1,703 European ancestry controls
+SLC26A3	7	107812658	rs2108225	1.00E-07	19915573	376 Japanese ancestry cases, 934 Japanese ancestry controls
+SLC26A3	7	107839870	rs4380874	9.00E-21	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+DLD	7	107839870	rs4380874	9.00E-21	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+LAMB1	7	107839870	rs4380874	9.00E-21	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+DLD	7	107839870	rs4380874	2.00E-26	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+DLD	7	107843992	rs4730276	9.00E-06	19122664	1,022 European ancestry cases, 2,503 European ancestry controls
+SLC26A3	7	107843992	rs4730276	9.00E-06	19122664	1,022 European ancestry cases, 2,503 European ancestry controls
+LAMB1	7	107843992	rs4730276	9.00E-06	19122664	1,022 European ancestry cases, 2,503 European ancestry controls
+LAMB1	7	107854989	rs886774	3.00E-08	19915572	2,361 European ancestry cases, 5,417 European ancestry controls
+DLD	7	107862996	rs4598195	1.00E-06	19122664	1,022 European ancestry cases, 2,503 European ancestry controls
+SLC26A3	7	107862996	rs4598195	1.00E-06	19122664	1,022 European ancestry cases, 2,503 European ancestry controls
+LAMB1	7	107862996	rs4598195	1.00E-06	19122664	1,022 European ancestry cases, 2,503 European ancestry controls
+LAMB1	7	107862996	rs4598195	8.00E-08	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+DLD	7	107862996	rs4598195	8.00E-08	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+DLD	7	107940394	rs2158836	7.00E-06	19122664	1,022 European ancestry cases, 2,503 European ancestry controls
+SLC26A3	7	107940394	rs2158836	7.00E-06	19122664	1,022 European ancestry cases, 2,503 European ancestry controls
+LAMB1	7	107940394	rs2158836	7.00E-06	19122664	1,022 European ancestry cases, 2,503 European ancestry controls
+WNT2	7	117252792	rs38904	6.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+IRF5	7	128933913	rs4728142	3.00E-10	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+IRF5	7	128933913	rs4728142	3.00E-08	26398853	705 Korean ancestry cases, 1,178 Korean ancestry controls
+TSPAN33	7	128933913	rs4728142	4.00E-14	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+TNPO3	7	128933913	rs4728142	4.00E-14	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+IRF5	7	128933913	rs4728142	4.00E-14	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+TNPO3	7	128933913	rs4728142	2.00E-08	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+IRF5	7	128933913	rs4728142	2.00E-08	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+CNTNAP2	7	148523356	rs2538470	3.00E-07	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+ACTR3B	7	153048725	rs4725479	5.00E-07	25082827	up to 7,483 European ancestry cases, up to 21,211 European ancestry controls
+Intergenic	9	4981601	rs75900472	1.00E-19	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+JAK2	9	4981602	rs10758669	1.00E-06	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+JAK2	9	4981602	rs10758669	2.00E-25	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+INSL6	9	5213687	rs10975003	1.00E-06	19915573	376 Japanese ancestry cases, 934 Japanese ancestry controls
+INSL4	9	5213687	rs10975003	1.00E-06	19915573	376 Japanese ancestry cases, 934 Japanese ancestry controls
+JAK2	9	5213687	rs10975003	1.00E-06	19915573	376 Japanese ancestry cases, 934 Japanese ancestry controls
+JAK2	9	5260079	rs1830610	2.00E-09	26398853	705 Korean ancestry cases, 1,178 Korean ancestry controls
+TNFSF8	9	114790969	rs4246905	6.00E-12	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+TNFSF15	9	114790969	rs4246905	6.00E-12	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+TNFSF15	9	114842790	rs11554257	1.00E-06	20848476	324 European ancestry medically refractory ulcerative colitis cases, 537 European ancestry non-medically refractory ulcerative colitis cases, 2,601 European ancestry controls
+C9orf69	9	136371953	rs10781499	2.00E-16	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+LHX3	9	136371953	rs10781499	2.00E-16	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+DKFZP434A062	9	136371953	rs10781499	2.00E-16	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+DNLZ	9	136371953	rs10781499	2.00E-16	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+UBAC1	9	136371953	rs10781499	2.00E-16	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+QSOX2	9	136371953	rs10781499	2.00E-16	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+GPSM1	9	136371953	rs10781499	2.00E-16	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CARD9	9	136371953	rs10781499	2.00E-16	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+SNAPC4	9	136371953	rs10781499	2.00E-16	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+SDCCAG3	9	136371953	rs10781499	2.00E-16	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+PMPCA	9	136371953	rs10781499	2.00E-16	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+SEC16A	9	136371953	rs10781499	2.00E-16	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+C9orf163	9	136371953	rs10781499	2.00E-16	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+NOTCH1	9	136371953	rs10781499	2.00E-16	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+NACC2	9	136371953	rs10781499	2.00E-16	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+INPP5E	9	136371953	rs10781499	2.00E-16	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+INPP5E	9	136371953	rs10781499	3.00E-19	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+SDCCAG3	9	136371953	rs10781499	3.00E-19	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+SEC16A	9	136371953	rs10781499	3.00E-19	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+CARD9	9	136371953	rs10781499	3.00E-19	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+SNAPC4	9	136371953	rs10781499	3.00E-19	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+CARD9	9	136372044	rs4077515	5.00E-08	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+CARD9	9	136374886	rs10781500	7.00E-06	19915572	2,361 European ancestry cases, 5,417 European ancestry controls
+MAP3K8	10	30439172	rs1042058	5.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CCNY	10	35265126	rs12261843	7.00E-10	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+ADO	10	62685804	rs10761659	1.00E-15	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+ZNF365	10	62685804	rs10761659	1.00E-15	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+COL13A1	10	69783412	rs2642575	5.00E-06	25082827	up to 7,483 European ancestry cases, up to 21,211 European ancestry controls
+HLA-DRA	10	75052692	rs2395128	2.00E-07	28008999	269 Polish ancestry child cases, 259 Polish ancestry adult cases, 582 Polish ancestry controls
+NKX2-3	10	99524480	rs4409764	2.00E-21	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+NKX2-3	10	99530544	rs6584283	2.00E-06	20228798	1,043 European ancestry cases, 1,703 European ancestry controls
+NKX2	10	99530544	rs6584283	2.00E-07	19915572	2,361 European ancestry cases, 5,417 European ancestry controls
+NKX3	10	99530544	rs6584283	2.00E-07	19915572	2,361 European ancestry cases, 5,417 European ancestry controls
+NKX2-3	10	99531836	rs11190140	1.00E-08	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+NFKB2	10	102472959	rs3740415	3.00E-07	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+TRIM8	10	102472959	rs3740415	3.00E-07	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+TMEM180	10	102472959	rs3740415	3.00E-07	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+CPXM2	10	123757564	rs4246949	7.00E-06	25082827	up to 7,483 European ancestry cases, up to 21,211 European ancestry controls
+METTL10	10	124750812	rs111456533	1.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+FAM175B	10	124750812	rs111456533	1.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+RP11-12J10.3	10	124750812	rs111456533	1.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+FAM53B	10	124750812	rs111456533	1.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+LSP1	11	1852842	rs907611	1.00E-07	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+FLJ78302	11	1852842	rs907611	1.00E-08	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+LTF	11	1852842	rs907611	1.00E-08	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+CCR1	11	1852842	rs907611	1.00E-08	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+CCR2	11	1852842	rs907611	1.00E-08	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+CCR3	11	1852842	rs907611	1.00E-08	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+CCR5	11	1852842	rs907611	1.00E-08	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+LSP1	11	1852842	rs907611	1.00E-10	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+OR5B2	11	58641214	rs11229555	9.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+OR5B12	11	58641214	rs11229555	9.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+OR5B21	11	58641214	rs11229555	9.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+AP001350.1	11	58641214	rs11229555	9.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+ZFP91	11	58641214	rs11229555	9.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+ZFP91-CNTF	11	58641214	rs11229555	9.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CNTF	11	58641214	rs11229555	9.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+LPXN	11	58641214	rs11229555	9.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+GLYAT	11	58641214	rs11229555	9.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+Intergenic	11	76588605	rs11236797	5.00E-15	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+MAML2	11	96290263	rs483905	7.00E-07	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+MAML2	11	96290263	rs483905	1.00E-08	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+JRKL	11	96290263	rs483905	1.00E-08	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+NXPE1	11	114516108	rs561722	5.00E-17	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+NXPE4	11	114516108	rs561722	5.00E-17	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+RBM7	11	114526441	rs200349593	2.00E-09	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+REXO2	11	114526441	rs200349593	2.00E-09	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+NXPE4	11	114526441	rs200349593	2.00E-09	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+NXPE1	11	114526441	rs200349593	2.00E-09	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+RP11-212D19.4	11	114526441	rs200349593	2.00E-09	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+GRAMD1B	11	123459759	rs56404409	6.00E-06	28008999	269 Polish ancestry child cases, 259 Polish ancestry adult cases, 582 Polish ancestry controls
+ETS1	11	128511079	rs11221332	6.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+HDAC7	12	47814585	rs11168249	3.00E-07	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+IFNG	12	68106295	rs7134599	1.00E-16	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+IL26	12	68106295	rs7134599	1.00E-16	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+IFNG	12	68110812	rs1558744	3.00E-12	19122664	1,022 European ancestry cases, 2,503 European ancestry controls
+IL26	12	68110812	rs1558744	3.00E-12	19122664	1,022 European ancestry cases, 2,503 European ancestry controls
+IL22	12	68110812	rs1558744	3.00E-12	19122664	1,022 European ancestry cases, 2,503 European ancestry controls
+IFNG	12	68110812	rs1558744	4.00E-12	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+IL26	12	68110812	rs1558744	4.00E-12	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+Intergenic	12	68114342	rs11614178	1.00E-29	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+IL26	12	68202881	rs2870946	5.00E-07	19122664	1,022 European ancestry cases, 2,503 European ancestry controls
+PRKAB1	12	119709120	rs11064881	2.00E-07	26192919	6,968 European ancestry cases, 20,464 European ancestry controls
+USP12	13	26957130	rs17085007	7.00E-08	19915573	376 Japanese ancestry cases, 934 Japanese ancestry controls
+Intergernic	13	26957130	rs17085007	8.00E-06	23511034	388 Korean ancestry cases, 739 Korean ancestry controls
+Intergenic	13	26957130	rs17085007	1.00E-14	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+Intergenic	13	40439840	rs941823	4.00E-07	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+EXD1	15	41271752	rs28374715	3.00E-07	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+OIP5	15	41271752	rs28374715	3.00E-07	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+NUSAP1	15	41271752	rs28374715	3.00E-07	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+RTF1	15	41271752	rs28374715	3.00E-07	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+INO80	15	41271752	rs28374715	3.00E-07	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CHP1	15	41271752	rs28374715	3.00E-07	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+NDUFAF1	15	41271752	rs28374715	3.00E-07	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+ITPKA	15	41271752	rs28374715	2.00E-08	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+NDUFAF1	15	41271752	rs28374715	2.00E-08	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+NUSAP1	15	41271752	rs28374715	2.00E-08	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+SEMA6D	15	47761032	rs501916	5.00E-07	28008999	269 Polish ancestry child cases, 259 Polish ancestry adult cases, 582 Polish ancestry controls
+SEMA6D	15	47761032	rs501916	4.00E-10	28008999	269 Polish ancestry child cases, 259 Polish ancestry adult cases, 582 Polish ancestry controls
+SMAD3	15	67150258	rs17293632	2.00E-08	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CRTC3	15	90629669	rs7495132	3.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CIITA	16	10881454	rs4781011	3.00E-06	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+PRKCB	16	23853269	rs7404095	2.00E-07	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+ITGAL	16	30471173	rs11150589	1.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+ITGAL	16	30471173	rs11150589	6.00E-10	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+ADCY7	16	50301163	rs78534766	3.00E-13	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+ADCY7	16	50301163	rs78534766	1.00E-14	28067910	7,760 European ancestry cases, 16,065 European ancestry controls
+ZFP90	16	68557327	rs1728785	4.00E-08	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CDH3	16	68557327	rs1728785	4.00E-08	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+ZFP90	16	68557327	rs1728785	4.00E-08	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+CDH1	16	68557327	rs1728785	3.00E-08	19915572	2,361 European ancestry cases, 5,417 European ancestry controls
+ZFP90	16	68640885	rs6499188	4.00E-08	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+PLCG2	16	81883307	rs11548656	8.00E-08	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+IRF8	16	85976134	rs16940186	4.00E-10	23511034	388 Korean ancestry cases, 739 Korean ancestry controls
+Intergenic	16	85980635	rs16940202	3.00E-10	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+GSDMB	17	39756124	rs12946510	2.00E-16	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+ORMDL3	17	39756124	rs12946510	2.00E-16	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+LRRC3C	17	39756124	rs12946510	2.00E-16	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+GRB7	17	39756124	rs12946510	2.00E-16	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+ZPBP2	17	39756124	rs12946510	2.00E-16	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+GSDMA	17	39756124	rs12946510	2.00E-16	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+IKZF3	17	39756124	rs12946510	2.00E-16	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+GSDML	17	39884510	rs2872507	5.00E-11	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+IKZF3	17	39884510	rs2872507	5.00E-11	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+ZPBP2	17	39884510	rs2872507	5.00E-11	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+ORMDL3	17	39884510	rs2872507	5.00E-11	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+PNMT	17	39884510	rs2872507	5.00E-11	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+GSDML	17	39905943	rs2305480	3.00E-08	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+ORMDL3	17	39905943	rs2305480	3.00E-08	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+STAC2	17	39905943	rs2305480	3.00E-08	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+FBXL20	17	39905943	rs2305480	3.00E-08	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+MED1	17	39905943	rs2305480	3.00E-08	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+CRKRS	17	39905943	rs2305480	3.00E-08	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+PPP1R1B	17	39905943	rs2305480	3.00E-08	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+STARD3	17	39905943	rs2305480	3.00E-08	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+TCAP	17	39905943	rs2305480	3.00E-08	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+PNMT	17	39905943	rs2305480	3.00E-08	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+PERLD1	17	39905943	rs2305480	3.00E-08	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+ERBB2	17	39905943	rs2305480	3.00E-08	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+C17orf37	17	39905943	rs2305480	3.00E-08	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+GRB7	17	39905943	rs2305480	3.00E-08	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+IKZF3	17	39905943	rs2305480	3.00E-08	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+ZPBP2	17	39905943	rs2305480	3.00E-08	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+NEUROD2	17	39905943	rs2305480	3.00E-08	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+NAGLU	17	42375526	rs12942547	1.00E-10	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+STAT5A	17	42375526	rs12942547	1.00E-10	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+PTRF	17	42375526	rs12942547	1.00E-10	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+STAT5B	17	42375526	rs12942547	1.00E-10	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+STAT3	17	42375526	rs12942547	1.00E-10	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+ATP6V0A1	17	42375526	rs12942547	1.00E-10	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+SLC39A11	17	72646784	rs17780256	4.00E-10	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+Intergenic	19	33240645	rs17694108	1.00E-08	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CALM3	19	46620526	rs1126510	2.00E-09	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+FCAR	19	54871595	rs11672983	1.00E-07	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+KIR3DL1	19	54871595	rs11672983	1.00E-07	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+KIR3DL2	19	54871595	rs11672983	1.00E-07	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+C20orf71	20	33130847	rs6059101	4.00E-06	20848476	324 European ancestry medically refractory ulcerative colitis cases, 537 European ancestry non-medically refractory ulcerative colitis cases, 2,601 European ancestry controls
+C20orf70	20	33130847	rs6059101	4.00E-06	20848476	324 European ancestry medically refractory ulcerative colitis cases, 537 European ancestry non-medically refractory ulcerative colitis cases, 2,601 European ancestry controls
+UQCC	20	35211477	rs6088765	2.00E-08	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+CEP250	20	35211477	rs6088765	2.00E-08	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+PROCR	20	35211477	rs6088765	2.00E-08	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+C20orf62	20	44436388	rs6017342	4.00E-30	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+SERINC3	20	44436388	rs6017342	4.00E-30	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+PKIG	20	44436388	rs6017342	4.00E-30	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+Z97053.1	20	44436388	rs6017342	4.00E-30	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+TTPAL	20	44436388	rs6017342	4.00E-30	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+ADA	20	44436388	rs6017342	4.00E-30	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+HNF4A	20	44436388	rs6017342	1.00E-43	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+ADA	20	44436388	rs6017342	1.00E-43	23128233	Up to 12,924 European ancestry cases, up to 21,442 European ancestry controls
+HNF4A	20	44436388	rs6017342	9.00E-17	19915572	2,361 European ancestry cases, 5,417 European ancestry controls
+SERINC3	20	44436388	rs6017342	1.00E-20	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+TNFRSF6B	20	63696229	rs2297441	2.00E-10	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+SLC2A4RG	20	63696229	rs2297441	2.00E-10	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+STMN3	20	63696229	rs2297441	2.00E-10	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+ZBTB46	20	63696229	rs2297441	2.00E-10	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+ZGPAT	20	63696229	rs2297441	2.00E-10	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+RTEL1	20	63696229	rs2297441	2.00E-10	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+TNFRSF6B	20	63697746	rs6062496	9.00E-17	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+ARFRP1	20	63697746	rs6062496	9.00E-17	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+LIME1	20	63697746	rs6062496	9.00E-17	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+RP4-583P15.14	20	63697746	rs6062496	9.00E-17	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+STMN3	20	63697746	rs6062496	9.00E-17	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+RTEL1	20	63697746	rs6062496	9.00E-17	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+RTEL1-TNFRSF6B	20	63697746	rs6062496	9.00E-17	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+ZGPAT	20	63697746	rs6062496	9.00E-17	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+RP4-583P15.15	20	63697746	rs6062496	9.00E-17	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+SLC2A4RG	20	63697746	rs6062496	9.00E-17	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+ZBTB46	20	63697746	rs6062496	9.00E-17	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+Intergenic	21	15445619	rs2823286	2.00E-13	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+Intergenic	21	39093608	rs2836878	2.00E-32	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+PSMG1	21	39093608	rs2836878	1.00E-08	20228799	2,693 European ancestry cases, 6,791 European ancestry controls
+ICOSLG	21	44195140	rs2838519	6.00E-11	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+Intergenic	21	44195858	rs7282490	5.00E-13	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+YDJC	22	21568615	rs2266959	9.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+SDF2L1	22	21568615	rs2266959	9.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+UBE2L3	22	21568615	rs2266959	9.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+CCDC116	22	21568615	rs2266959	9.00E-06	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+TOM1	22	35333728	rs138788	3.00E-08	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+SYNGR1	22	39263768	rs2413583	3.00E-10	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+RPL3	22	39263768	rs2413583	3.00E-10	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+PIM3	22	49997051	rs5771069	2.00E-10	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+IL17REL	22	49997051	rs5771069	2.00E-10	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+TTLL8	22	49997051	rs5771069	2.00E-10	28067908	12,366 European and unknown ancestry cases, 33,609 European and unknown ancestry controls
+IL17REL	22	49997051	rs5771069	4.00E-08	20228798	1,043 European ancestry cases, 1,703 European ancestry controls
+IL17REL	22	49997051	rs5771069	2.00E-07	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+PIM3	22	49997051	rs5771069	2.00E-07	21297633	6,687 European ancestry cases, 19,718 European ancestry controls
+HLA-DRB1			HLA-DRB1*0103	2.00E-13	29562276	466 European ancestry cases, 2,099 European ancestry controls
+HLA-DRB1			HLA-DRB1*1301	7.00E-08	29562276	466 European ancestry cases, 2,099 European ancestry controls
